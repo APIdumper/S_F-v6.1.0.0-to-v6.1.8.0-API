@@ -1,8 +1,0 @@
-Install python and pip
-
-Open a command prompt or a terminal and run pip install -r requirements.txt
-
-Checkout the sf_api_chromecdm_license_request_example.py file to get an idea about how to get keys using StreamFab's Chrome CDM API
-Checkout the sf_api_cache_key_request_example.py file to get an idea about how to get keys from StreamFab's cached keys database
-
-Checkout the streamfabcdm.py to get an idea about how the StreamFab API works.
